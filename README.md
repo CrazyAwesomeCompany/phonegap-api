@@ -1,4 +1,5 @@
-phonegap-api
-============
+# Crazy Awesome Phonegap API Client
 
-PhoneGap Developer API Client 
+Connect your PHP Application with the Phonegap Build API
+
+
